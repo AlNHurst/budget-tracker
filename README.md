@@ -18,7 +18,7 @@ The fitness tracker is an application that allows users to add expenses and depo
 
 ## Demonstration
 * Usage Demonstration
-![gif Demonstration](https://github.com/AlNHurst/fitness-tracker/blob/main/public/images/budget-tracker.gif)
+![gif Demonstration](hhttps://github.com/AlNHurst/budget-tracker/blob/main/public/images/budget-tracker.gif)
 
 ## Installation
 *  The application will require the following dependencies: express, mongoose, morgan, compression, and lite-server. Run 'npm i' to install the dependencies. Run 'npm i -D nodemon' to install nodemon. 
