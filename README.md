@@ -7,7 +7,6 @@
 * [Framework](#Framework)
 * [Links](#Links)
 * [Contact](#Contact)
-* [License](#License)
 
 ## Description
 The fitness tracker is an application that allows users to add expenses and deposits to their budget with or without an internet connection. After the users enters transactions offline, the new transactions will populate in the database when brough back online. 
